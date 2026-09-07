@@ -15,8 +15,21 @@ Welcome to my GitHub profile! I'm passionate about technology and always eager t
 
 ## 💻 Skills
 
-- **Python** - Core programming language
-- **C** - Systems programming and competitive programming
+### Technical
+
+- **Python** — Core programming language
+- **C** — Systems programming and competitive programming
+
+### Soft Skills
+
+- Problem solving
+- Time management
+- Adaptability
+- Quick learner
+- Critical thinking
+- Decision making
+- Presentation skills
+- Teamwork & collaboration
 
 ---
 
