@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Aishwarya Satthu
+# Hi there! I'm Aishwarya Satthu
 
 Welcome to my GitHub profile! I'm passionate about technology and always eager to learn and grow in the field of software development.
 
