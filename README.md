@@ -19,6 +19,7 @@ Welcome to my GitHub profile! I'm passionate about technology and always eager t
 
 - **Python** — Core programming language
 - **C** — Systems programming and competitive programming
+- web development,c++,java,DSA,Full stack
 
 ### Soft Skills
 
